@@ -6,3 +6,7 @@ In this demo we handle drag n' drop file functionality in React in order to pars
 - React Dropzone: https://react-dropzone.js.org/
 - JavaScript File: https://developer.mozilla.org/en-US/docs/Web/API/File
 - Learn JavaScript, React & more with Treehouse (affiliate link): https://treehouse.7eer.net/c/1214671/228915/3944
+
+# Netlify Hosting Location
+
+Netlify hosting tool (qh-vendor tool): https://qh-vendor-tool.netlify.app/
